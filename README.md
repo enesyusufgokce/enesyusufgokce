@@ -1,8 +1,6 @@
 <h1 align="center">I'm Yusuf</h1>
 <h3 align="center">Passionate about Deep Learning and Computer Vision with a primary focus on Defense Tech. I am dedicated to developing Autonomous Systems that integrate real-time perception with intelligent decision-making</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyusufgokce&label=Profile%20views&color=0e75b6&style=flat" alt="enesyusufgokce" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesyusufgokce" alt="enesyusufgokce" /></a> </p>
 
 - 🔭 I’m currently working on TÜBİTAK 2209-A **Wild animal detection in rural settlements**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enesyusufgokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesyusufgokce" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/enes-yusuf-g%c3%b6k%c3%a7e-894278279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enes-yusuf-g%c3%b6k%c3%a7e-894278279" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesyusufgokce&show_icons=true&locale=en&layout=compact" alt="enesyusufgokce" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesyusufgokce&show_icons=true&locale=en" alt="enesyusufgokce" /></p>
-
