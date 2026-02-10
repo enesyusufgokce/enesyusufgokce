@@ -12,8 +12,7 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 - **TUBITAK 2209-A:** Developing an early warning system for wild animal intrusion in rural areas.
 - **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
-### 🛠️ 
-Technical-Stack:
+### 🛠️ Technical-Stack:
   Languages: [Python, C, Java, MySQL]
   AI-Vision: [TensorFlow, Scikit-learn, OpenCV, MediaPipe]
   Data-Science: [NumPy, Pandas, Matplotlib, Seaborn]
