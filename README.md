@@ -19,4 +19,3 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `MySQL`  
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yusuf-g%C3%B6k%C3%A7e-894278279)
-[![Email]](eyusufgokce@gmail.com)
