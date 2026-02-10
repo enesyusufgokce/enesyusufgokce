@@ -1,6 +1,8 @@
 # About Me
 
-I am a Computer Science student and passionate about Computer Vision, Machine Learning, and Data Science. My primary focus lies in Defense Tech, where I leverage data-driven insights to build intelligent Autonomous Systems and perception models."
+I am a Computer Science student and passionate about Computer Vision, Machine Learning, and Data Science. My primary focus is on developing Autonomous Systems that can perceive their environment with high precision and make reliable decisions in complex scenarios. By leveraging deep learning models and semantic data analysis, I work on building next-generation perception layers and automated search engines that enhance situational awareness and strategic modeling. I thrive on solving high-stakes engineering challenges where reliability and accuracy are paramount."
+
+
 
 ### 🛡️ Focus Areas
 * **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions in Defense Tech.
@@ -13,7 +15,8 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 - **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
 ### 🛠️ Technical Stack
-`Python` `C` `Java` `TensorFlow` `Scikit-learn` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Matplotlib` `Seaborn` `MySQL`  
+`Python` `C` `Java` `TensorFlow` `Scikit-learn` `OpenCV` `MediaPipe`
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `MySQL`  
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yusuf-g%C3%B6k%C3%A7e-894278279)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](eyusufgokce@gmail.com)
