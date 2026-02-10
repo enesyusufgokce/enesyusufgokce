@@ -13,13 +13,7 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 - **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
 ### 🛠️ Technical-Stack:
-{
-  "tech_stack": [
-    "Python", "C", "Java", "TensorFlow", "Scikit-learn", 
-    "OpenCV", "MediaPipe", "NumPy", "Pandas", 
-    "Matplotlib", "Seaborn", "MySQL"
-  ]
-}
+■ Tech Stack: [Python, C, Java, TensorFlow, Scikit-learn, OpenCV, MediaPipe, NumPy, Pandas, Matplotlib, Seaborn, MySQL]
   
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yusuf-g%C3%B6k%C3%A7e-894278279)
