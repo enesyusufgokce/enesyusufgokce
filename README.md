@@ -11,7 +11,8 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 * **Machine Learning:** Training robust models for predictive analysis and intelligent automation.
 
 ### 🚀 Currently Working On
-- **TUBITAK 2209-A:** Project based on computer vision
+- **TUBITAK 2209-A:** ***
+- **Teknofest:** Artificial Intelligence in Aviation Competition.
 - **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
 ### 🛠️ Technical Stack
