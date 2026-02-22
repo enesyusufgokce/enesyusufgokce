@@ -12,7 +12,7 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 
 ### 🚀 Currently Working On
 - **TUBITAK 2209-A:** ***
-- **Teknofest:** Artificial Intelligence in Aviation Competition.
+- **TEKNOFEST:** Artificial Intelligence in Aviation Competition.
 - **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
 ### 🛠️ Technical Stack
