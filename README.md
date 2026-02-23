@@ -1,6 +1,6 @@
 # About Me
 
-I am a Computer Science student and passionate about Computer Vision, Machine Learning, and Data Science. My primary focus is on developing Autonomous Systems that can perceive their environment with high precision and make reliable decisions in complex scenarios. By leveraging deep learning models and semantic data analysis, I work on building next-generation perception layers and automated search engines that enhance situational awareness and strategic modeling. I thrive on solving high-stakes engineering challenges where reliability and accuracy are paramount."
+I am a Computer Engineering student and passionate about Statistics, Computer Vision, Machine Learning, and Data Science. My primary focus is on developing Autonomous Systems that can perceive their environment with high precision and make reliable decisions in complex scenarios. By leveraging deep learning models and semantic data analysis, I work on building next-generation perception layers that enhance situational awareness and strategic modeling. I thrive on solving high-stakes engineering challenges where reliability and accuracy are paramount."
 
 
 
@@ -9,6 +9,7 @@ I am a Computer Science student and passionate about Computer Vision, Machine Le
 * **Computer Vision:** Developing real-time object detection and tracking systems.
 * **Autonomous Systems:** Building the bridge between perception and action through path planning and decision-making algorithms.
 * **Machine Learning:** Training robust models for predictive analysis and intelligent automation.
+* **Statistical Analysis:** Applying advanced statistical methods to validate model performance and interpret data patterns for high-precision environments.
 
 ### 🚀 Currently Working On
 - **TUBITAK 2209-A:** ***
