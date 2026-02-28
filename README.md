@@ -5,7 +5,7 @@ I am a Computer Engineering student focused on Statistics, Computer Vision, Mach
 
 
 ### 🛡️ Focus Areas
-* **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions in Defense Tech.
+* **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions.
 * **Computer Vision:** Developing real-time object detection and tracking systems.
 * **Autonomous Systems:** Building the bridge between perception and action through path planning and decision-making algorithms.
 * **Machine Learning:** Training robust models for predictive analysis and intelligent automation.
