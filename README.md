@@ -14,7 +14,6 @@ I am a Computer Engineering student focused on Statistics, Computer Vision, Mach
 ### 🚀 Currently Working On
 - **TUBITAK 2209-A:** ***
 - **TEKNOFEST:** Artificial Intelligence in Aviation Competition.
-- **Real World Object Detection:** Developing real world object detection systems using MediaPipe.
 
 ### 🛠️ Technical Stack
 `Python` `C` `Java` `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `MediaPipe`
