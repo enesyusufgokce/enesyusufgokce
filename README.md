@@ -5,10 +5,10 @@ I am a Computer Engineering student focused on Statistics, Computer Vision, Mach
 
 
 ### 🛡️ Focus Areas
-* **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions.
+* **Machine Learning, Deep Learning:** Training robust models for predictive analysis and intelligent automation.
 * **Computer Vision:** Developing real-time object detection and tracking systems.
+* **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions.
 * **Autonomous Systems:** Building the bridge between perception and action through path planning and decision-making algorithms.
-* **Machine Learning:** Training robust models for predictive analysis and intelligent automation.
 
 ### 🚀 Currently Working On
 - **TUBITAK 2209-A:** ***
