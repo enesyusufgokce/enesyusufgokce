@@ -9,15 +9,14 @@ I am a Computer Engineering student focused on Statistics, Computer Vision, Mach
 * **Computer Vision:** Developing real-time object detection and tracking systems.
 * **Autonomous Systems:** Building the bridge between perception and action through path planning and decision-making algorithms.
 * **Machine Learning:** Training robust models for predictive analysis and intelligent automation.
-* **Statistical Analysis:** Applying advanced statistical methods to validate model performance and interpret data patterns for high-precision environments.
 
 ### 🚀 Currently Working On
 - **TUBITAK 2209-A:** ***
 - **TEKNOFEST:** Artificial Intelligence in Aviation Competition.
 
 ### 🛠️ Technical Stack
-`Python` `C` `Java` `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `MediaPipe`
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `MySQL`  
+`Python` `C` `Java`  `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `MediaPipe`
+`NumPy` `Pandas` `Matplotlib/Seaborn` `MySQL`  
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yusuf-g%C3%B6k%C3%A7e-894278279)
 [![Email](https://img.shields.io/badge/eyusufgokce@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eyusufgokce@gmail.com)
