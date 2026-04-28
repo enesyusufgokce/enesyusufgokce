@@ -1,13 +1,12 @@
 # About Me
 
-I am a Computer Engineering student focused on Statistics, Computer Vision, Machine Learning, and Data Science. My primary focus is on developing Autonomous Systems that can perceive their environment with high precision and make reliable decisions in complex scenarios. By leveraging deep learning models and semantic data analysis, I work on building next-generation perception layers that enhance situational awareness and strategic modeling. I thrive on solving high-stakes engineering challenges where reliability and accuracy are paramount."
+I am a Computer Engineering student focused on Statistics, Computer Vision, and Machine Learning. My primary focus is on developing Autonomous Systems that can perceive their environment with high precision and make reliable decisions in complex scenarios. By leveraging deep learning models and semantic data analysis, I work on building next-generation perception layers that enhance situational awareness and strategic modeling. I thrive on solving high-stakes engineering challenges where reliability and accuracy are paramount."
 
 
 
 ### 🛡️ Focus Areas
 * **Machine Learning, Deep Learning:** Training robust models for predictive analysis and intelligent automation.
 * **Computer Vision:** Developing real-time object detection and tracking systems.
-* **Data Science:** Extracting actionable insights from complex datasets to drive strategic decisions.
 * **Autonomous Systems:** Building the bridge between perception and action through path planning and decision-making algorithms.
 
 ### 🚀 Currently Working On
