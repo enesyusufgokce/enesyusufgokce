@@ -14,7 +14,7 @@ I am a Computer Engineering student focused on Statistics, Computer Vision, and 
 - **TEKNOFEST:** Artificial Intelligence in Aviation Competition.
 
 ### 🛠️ Technical Stack
-`Python` `C` `Java`  `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `MediaPipe`
+`Python` `C` `Java`  `PyTorch` `YOLOv8` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `MediaPipe`
 `NumPy` `Pandas` `Matplotlib/Seaborn` `MySQL`  
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yusuf-g%C3%B6k%C3%A7e-894278279)
